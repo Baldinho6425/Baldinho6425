@@ -66,5 +66,5 @@ Comecei na área de TI trabalhando com controle de estoque e suporte técnico, e
 Gosto de projetos que resolvem um problema real: o Chama e o Sist, aqui em cima, nasceram de situações que vivi no trabalho — suporte técnico por sala e requisição de materiais no almoxarifado. Já no TCC, saí um pouco da área de sistemas de gestão para aplicar redes neurais na classificação de imagens médicas.
 
 Inglês intermediário, sempre aprendendo algo novo, e de olho em projetos freelance.
-
+---
 </div>
