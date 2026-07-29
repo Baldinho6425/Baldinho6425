@@ -37,9 +37,9 @@
 
 | Projeto | Descrição |
 |---|---|
-| [nome-do-repositorio](https://github.com/Baldinho6425/Tcc_Classificador_Lesoes) | Trabalho de Conclusão de Curso — aplicação de Redes Neurais Convolucionais (CNNs) para classificação automática de imagens dermatológicas do dataset HAM10000. |
-| [nome-do-repositorio-2](https://github.com/Baldinho6425/CodigoCrafter) | Testes e Projetos |
-| [nome-do-repositorio-3](https://github.com/Baldinho6425/SITE-Centro-de-Inovacao) | Site institucional da CIT Fábrica — Centro de Inovação e Tecnologia (também conhecida como Fábrica Centro de Inovação / CI Oeste)|
+  | [Tcc_Classificador_Lesoes](https://github.com/Baldinho6425/Tcc_Classificador_Lesoes) | Trabalho de Conclusão de Curso — aplicação de Redes Neurais Convolucionais (CNNs) para classificação automática de imagens dermatológicas do dataset HAM10000. |
+| [CodigoCrafter](https://github.com/Baldinho6425/CodigoCrafter) | Testes e Projetos |
+| [SITE_Centro_de_Inovacao](https://github.com/Baldinho6425/SITE-Centro-de-Inovacao) | Site institucional da CIT Fábrica — Centro de Inovação e Tecnologia (também conhecida como Fábrica Centro de Inovação / CI Oeste)|
 
 ---
 
