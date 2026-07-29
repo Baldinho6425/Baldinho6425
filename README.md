@@ -8,7 +8,7 @@
 </div>
 
 ```
-◈ Estudante de Ciência da Computação — UNOESC
+◈ Bacharel em Ciência da Computação — UNOESC
 ◈ Técnico de Informática | Suporte, infraestrutura e manutenção
 ◈ Foco em Java e Python
 ◈ Aberto a projetos freelance e novas oportunidades em TI
