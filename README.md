@@ -37,7 +37,7 @@
 
 | Projeto | Descrição |
 |---|---|
-| [nome-do-repositorio](https://github.com/SEU-USUARIO/repo) | Breve descrição do que o projeto faz |
+| [Tcc_Classificador_Lesoes]([https://github.com/SEU-USUARIO/repo](https://github.com/Baldinho6425/Tcc_Classificador_Lesoes)) | Breve descrição do que o projeto faz |
 | [nome-do-repositorio-2](https://github.com/SEU-USUARIO/repo2) | Breve descrição do que o projeto faz |
 | [nome-do-repositorio-3](https://github.com/SEU-USUARIO/repo3) | Breve descrição do que o projeto faz |
 
