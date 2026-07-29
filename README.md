@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00c6ff&height=200&section=header&text=Eduardo%20Giehl&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20TI%20%26%20Suporte%20T%C3%A9cnico&descAlignY=58&descSize=16&animation=twinkling)
-
 [![Email](https://img.shields.io/badge/Email-eduardogiehl@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardogiehl@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Giehl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardogiehl)
 
