@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 Estatísticas
+## 👋 Sobre mim
 
 <div align="center">
 
@@ -64,6 +64,10 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00c6ff&height=120&section=footer)
+Comecei na área de TI trabalhando com controle de estoque e suporte técnico, e foi dando manutenção em servidores e ajudando usuários no dia a dia que percebi que queria migrar de vez para o desenvolvimento. Sou Bacharel em Ciência da Computação pela UNOESC e hoje atuo como Técnico de Informática lá mesmo.
+
+Gosto de projetos que resolvem um problema real: o Chama e o Sist, aqui em cima, nasceram de situações que vivi no trabalho — suporte técnico por sala e requisição de materiais no almoxarifado. Já no TCC, saí um pouco da área de sistemas de gestão para aplicar redes neurais na classificação de imagens médicas.
+
+Inglês intermediário, sempre aprendendo algo novo, e de olho em projetos freelance — principalmente em Java e Python.
 
 </div>
