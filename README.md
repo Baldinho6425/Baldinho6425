@@ -55,9 +55,6 @@
 ## 👋 Sobre mim
 
 <div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Baldinho6425&show_icons=true&theme=radical&hide_border=true)
-
 </div>
 
 ---
